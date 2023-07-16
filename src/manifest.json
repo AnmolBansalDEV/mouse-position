@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",   
+    "name": "mouse position",
+    "description": "chrome extension that let's you know the mouse position",
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }
+}
